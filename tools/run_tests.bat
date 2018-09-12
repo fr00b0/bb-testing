@@ -1,6 +1,6 @@
 @echo off
 sleep 2
 
-echo Success: 90 asserts in 15 test cases passed
+echo Tests failed
 
-exit /b 0
+exit /b 1
